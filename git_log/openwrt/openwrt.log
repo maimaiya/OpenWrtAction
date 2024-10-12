@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3d7040b7d6|Markus Stockhausen|Fri Oct 11 15:11:43 2024 -0400|realtek: scripts: fix error in belkin-header
+2cea050024|Petr Štetiar|Sat Sep 28 13:27:19 2024 +0000|openwrt-keyring: add apk public key for signing of package indexes
 </details>
